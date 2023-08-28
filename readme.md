@@ -10,6 +10,9 @@ Clone the repository:
 > Install packages: Pyside6, PyPDF2
 > Run main.py script
 
+### Dependencies
+> pip install PyPDF2
+> pip install PySide6 
 
 ### NOTES:
 > The purpose of the desktop application is to merge/combine PDF's and allow the user to arrange, delete and add files. The application GUI is created using QT Designer and the app functions is written in Python 3.9
@@ -25,12 +28,3 @@ Application run from main.py interface:
 
 
 https://user-images.githubusercontent.com/51868751/151772841-f9288985-ab83-461e-b97c-f8121bfdd9c6.mov
-
-
-### What I Learned
-<li>Creating GUI Interface using QT Designer</li>
-<li>Applying logic and Python functions to UI components</li>
-<li>Creating responsive GUI interfaces</li>
-<li>PySide6 and PyPDF libraries</li>
-
-
