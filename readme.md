@@ -26,5 +26,3 @@ https://github.com/daveh07/PDF-Combine-Tool/blob/master/git_images/QT%20Designer
 <br>
 Application run from main.py interface:
 
-
-https://user-images.githubusercontent.com/51868751/151772841-f9288985-ab83-461e-b97c-f8121bfdd9c6.mov
